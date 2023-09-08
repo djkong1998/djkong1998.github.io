@@ -1,5 +1,5 @@
 ---
-title: "_DE-DQN: A Dual-Embedding Based Deep Q-Network for Task Assignment Problem in Spatial Crowdsourcing"
+title: "DE-DQN: A Dual-Embedding Based Deep Q-Network for Task Assignment Problem in Spatial Crowdsourcing"
 collection: publications
 permalink: /publication/APWeb-WAIM 2022_DE-DQN_A Dual-Embedding Based Deep Q-Network for Task Assignment Problem in Spatial Crowdsourcing
 date: 2022-11-25 ~ 2022-11-27
