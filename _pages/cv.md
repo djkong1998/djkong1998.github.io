@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
 * Doctor of Philosophy in Computer Science, School of Computer Science and Engineering, The University of New South Wales (UNSW Sydney), 2023.09 ~ 2025.03 (Expected)
 * Doctor of Philosophy in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2021.04 ~ 2025.03 (Expected)
 * Master of Science in Mechanical Engineering with Distinction, Department of Mechanical Engineering, The University of Hong Kong, 2019.09 ~ 2020.12
 * Bachelor of Economics in International Economy and Trade (Minor), ANTAI College of Economics and Management, Shanghai Jiao Tong University, 2017.02 ~ 2019.06
 * Bachelor of Engineering in Naval Architecture and Ocean Engineering, School of Naval Architecture, Ocean and Civil Engineering, Shanghai Jiao Tong University, 2015.09 ~ 2019.06
+* The Gifted Division, North East Yucai School, 2010.09 ~ 2015.06
+* The Primary School Division, North East Yucai School, 2005.09 ~ 2010.07
 
-Internship
+INTERNSHIP
 ======
 * Bytedance Inc., 2022.11 ~
   * Supervisor: Tieying Zhang
@@ -29,31 +31,31 @@ Internship
   * Supervisor: Pianpian Wang
   * Base: Shanghai
 
-Scholarship
+SCHOLARSHIP
 ======
 * China Scholarship Council Visiting PhD Scholarship, 2023.05
 * China Classification Society Scholarship, 2018.12
 * SJTU Academic Excellence Scholarship (First-Class), 2017.12
 
-Awards
+AWARDS
 ======
 * 3rd Prize, The 6th World Maritime Technology Conference Student Innovative Marine Design Competition, 2018.11
 * Outstanding Winner, National Marine Craft Design and Manufacture Competition, 2018.08
 * Honorable Mention, Interdisciplinary Contest in Modeling (ICM), 2018.04
 * 2nd Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)(Shanghai Division), 2017.12
 * 3rd Prize, Shanghai Undergraduate Mathematics Competition, 2016.12
-  
-Skills
+
+PROJECTS
 ======
 
 
-Publications
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+SERVICE & LEADERSHIP
 ======
 * The 23rd IEEE International Conference on Data Mining (ICDM), 2023.08 ~ 2023.09
   * Occupation: Reviewer (3 Reviews)
@@ -65,3 +67,8 @@ Service and leadership
 * SJTU NAOCE Student Union, 2015.10 ~ 2016.10
   * Department: Literal & Art
   * Occupation: Officer
+
+SKILLS
+======
+
+
