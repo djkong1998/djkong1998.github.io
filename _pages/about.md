@@ -9,8 +9,4 @@ redirect_from:
 ---
 Welcome to my personal webpage!
 
-This webpage is still under construction.
-
-Thank you for your visit!
-
 <i>Updated on May 29, 2024</i>
