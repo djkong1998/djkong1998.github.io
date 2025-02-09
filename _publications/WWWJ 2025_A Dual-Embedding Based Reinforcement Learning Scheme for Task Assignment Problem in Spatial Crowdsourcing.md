@@ -1,12 +1,12 @@
 ---
-title: "An Approximation for Job Scheduling on Cloud with Synchronization and Slowdown Constraints"
+title: "A Dual-Embedding Based Reinforcement Learning Scheme for Task Assignment Problem in Spatial Crowdsourcing"
 collection: publications
-permalink: /publication/INFOCOM 2023_An Approximation for Job Scheduling on Cloud with Synchronization and Slowdown Constraints
-date: 2023-05-17 ~ 2023-05-20
-venue: 'The 42nd IEEE International Conference on Computer Communications (INFOCOM, CCF-A)'
-paperurl: 'http://djkong1998.github.io/files/INFOCOM 2023_An Approximation for Job Scheduling on Cloud with Synchronization and Slowdown Constraints.pdf'
-citation: 'Dejun Kong, Zhongrui Zhang, Yangguang Shi, Xiaofeng Gao, An Approximation for Job Scheduling on Cloud with Synchronization and Slowdown Constraints, <i>The 42nd IEEE International Conference on Computer Communications (INFOCOM)</i>, New York, USA, May 17-20, 2023.'
+permalink: /publication/WWWJ 2025_A Dual-Embedding Based Reinforcement Learning Scheme for Task Assignment Problem in Spatial Crowdsourcing
+date: 2024-12-27
+venue: 'World Wide Web: Internet and Web Information Systems (WWWJ, CCF-B)'
+paperurl: 'http://djkong1998.github.io/files/WWWJ 2025_A Dual-Embedding Based Reinforcement Learning Scheme for Task Assignment Problem in Spatial Crowdsourcing.pdf'
+citation: 'Yucen Gao, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, A Dual-Embedding Based Reinforcement Learning Scheme for Task Assignment Problem in Spatial Crowdsourcing, <i>World Wide Web (WWWJ)</i>, Volume 28, Issue 1, Number 13, 2025.'
 ---
-[Download paper here](http://djkong1998.github.io/files/INFOCOM 2023_An Approximation for Job Scheduling on Cloud with Synchronization and Slowdown Constraints.pdf)
+[Download paper here](http://djkong1998.github.io/files/WWWJ 2025_A Dual-Embedding Based Reinforcement Learning Scheme for Task Assignment Problem in Spatial Crowdsourcing.pdf)
 
-Dejun Kong, Zhongrui Zhang, Yangguang Shi, Xiaofeng Gao, An Approximation for Job Scheduling on Cloud with Synchronization and Slowdown Constraints, <i>The 42nd IEEE International Conference on Computer Communications (INFOCOM)</i>, New York, USA, May 17-20, 2023.
+Yucen Gao, Dejun Kong, Haipeng Dai, Xiaofeng Gao, Jiaqi Zheng, Fan Wu, Guihai Chen, A Dual-Embedding Based Reinforcement Learning Scheme for Task Assignment Problem in Spatial Crowdsourcing, <i>World Wide Web (WWWJ)</i>, Volume 28, Issue 1, Number 13, 2025.
