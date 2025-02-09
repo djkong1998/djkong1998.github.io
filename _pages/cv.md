@@ -39,7 +39,7 @@ SCHOLARSHIP
 * Shanghai Jiao Tong University - Suzhou Industrial Park Scholarship (Overseas Study), 2024.11
 * China Scholarship Council Visiting PhD Scholarship, 2023.05
 * China Classification Society Scholarship, 2018.12
-* SJTU Academic Excellence Scholarship (First-Class), 2017.12
+* Shanghai Jiao Tong University Academic Excellence Scholarship (First Class), 2017.12
 
 COMPETITIONS
 ======
