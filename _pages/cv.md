@@ -51,8 +51,8 @@ COMPETITIONS
 
 PROJECTS
 ======
-* ByteDance - Shanghai Jiao Tong University Cooperation Project (基于数据库实时负载的在线学习), 2022.11 ~ 2024.06
-* Huawei - Shanghai Jiao Tong University Cooperation Project (公有云负载识别与QoS预测), 2021.12 ~ 2022.06
+* ByteDance - Shanghai Jiao Tong University Collaborative Project (基于数据库实时负载的在线学习), 2022.11 ~ 2024.06
+* Huawei - Shanghai Jiao Tong University Collaborative Project (公有云负载识别与QoS预测), 2021.12 ~ 2022.06
 * Ministry of Science and Technology, P. R. C.: National Key Research and Development Program (面向城市精准管理的新型群智感知技术及应用), 2021.04 ~ 2022.11
 
 PUBLICATIONS
