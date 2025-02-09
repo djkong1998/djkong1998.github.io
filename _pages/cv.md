@@ -19,25 +19,29 @@ EDUCATION
 * The Gifted Division, North East Yucai School, 2010.09 ~ 2015.06
 * The Primary School Division, North East Yucai School, 2005.09 ~ 2010.07
 
-INTERNSHIP
+PROFESSION
 ======
-* Bytedance Inc., 2022.11 ~
+* Bytedance Inc., 2022.11 ~ 2024.06
+  * Department: Infrastructure/Data (Applied Innovation Center)
+  * Occupation: Algorithm Engineer (Intern)
+  * Duty: Responsible for the optimization of distibuted computing system (Spark, Hadoop), including algorithm design, system construction, application research, etc.
   * Supervisor: Tieying Zhang
   * Base: Beijing
 * Dongxing Securities Co.,Ltd., 2019.06 ~ 2019.08
   * Department: Industry Research (Building Decoration Group)
-  * Occupation: Industry Analyst Assistant
+  * Occupation: Industry Analyst Assistant (Intern)
   * Duty: Responsible for industry data tracking, company data collation, weekly report summary, financial model construction, company annual report review, company in-depth report writing, etc.
   * Supervisor: Pianpian Wang
   * Base: Shanghai
 
 SCHOLARSHIP
 ======
+* Shanghai Jiao Tong University - Suzhou Industrial Park Scholarship (Overseas Study), 2024.11
 * China Scholarship Council Visiting PhD Scholarship, 2023.05
 * China Classification Society Scholarship, 2018.12
 * SJTU Academic Excellence Scholarship (First-Class), 2017.12
 
-AWARDS
+COMPETITIONS
 ======
 * 3rd Prize, The 6th World Maritime Technology Conference Student Innovative Marine Design Competition, 2018.11
 * Outstanding Winner, National Marine Craft Design and Manufacture Competition, 2018.08
@@ -55,7 +59,7 @@ PUBLICATIONS
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-SERVICE & LEADERSHIP
+SERVICE
 ======
 * The 23rd IEEE International Conference on Data Mining (ICDM), 2023.08 ~ 2023.09
   * Occupation: Reviewer (3 Reviews)
