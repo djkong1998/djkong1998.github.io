@@ -11,8 +11,8 @@ redirect_from:
 
 EDUCATION
 ======
-* Doctor of Philosophy in Computer Science, School of Computer Science and Engineering, The University of New South Wales (UNSW Sydney), 2023.09 ~ 2026.03 (Expected)
-* Doctor of Philosophy in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2021.04 ~ 2026.03 (Expected)
+* Doctor of Philosophy in Computer Science, School of Computer Science and Engineering, The University of New South Wales (UNSW Sydney), 2023.09 ~ 2026.09 (Expected)
+* Doctor of Philosophy in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2021.04 ~ 2026.09 (Expected)
 * Master of Science in Mechanical Engineering with Distinction, Department of Mechanical Engineering, The University of Hong Kong, 2019.09 ~ 2020.12
 * Bachelor of Economics in International Economy and Trade (Minor), ANTAI College of Economics and Management, Shanghai Jiao Tong University, 2017.02 ~ 2019.06
 * Bachelor of Engineering in Naval Architecture and Ocean Engineering, School of Naval Architecture, Ocean and Civil Engineering, Shanghai Jiao Tong University, 2015.09 ~ 2019.06
