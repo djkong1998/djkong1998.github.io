@@ -70,7 +70,7 @@ SERVICE
 * SJTU Mathematics Association, 2015.10 ~ 2016.10
   * Department: Academy
   * Occupation: Minister
-* SJTU NAOCE Student Union, 2015.10 ~ 2016.10
+* SJTU NAOCE Student Union, 2015.10 ~ 2016.05
   * Department: Literal & Art
   * Occupation: Officer
 
