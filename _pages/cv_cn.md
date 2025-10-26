@@ -19,26 +19,20 @@ redirect_from:
 * 东北育才学校 超常教育实验部 高中/初中 2010.09 ~ 2015.06
 * 东北育才学校 小学部 2005.09 ~ 2010.07
 
-PROFESSION
+实习经历
 ======
-* Bytedance Inc., 2022.11 ~ 2024.06
-  * Department: Infrastructure/Data (Applied Innovation Center)
-  * Occupation: Algorithm Engineer (Intern)
-  * Duty: Responsible for the optimization of distibuted computing system (Spark, Hadoop), including algorithm design, system construction, application research, etc.
-  * Supervisor: Tieying Zhang
-  * Base: Beijing
-* Dongxing Securities Co.,Ltd., 2019.06 ~ 2019.08
-  * Department: Industry Research (Building Decoration Group)
-  * Occupation: Industry Analyst Assistant (Intern)
-  * Duty: Responsible for industry data tracking, company data collation, weekly report summary, financial model construction, company annual report review, company in-depth report writing, etc.
-  * Supervisor: Pianpian Wang
-  * Base: Shanghai
+* 华为 2012实验室 中央研究院 网络技术实验室 研究员 远程 2025.07.10 ~
+  * 负责下一代超节点网络拓扑研发相关研究工作，包括业界现有网络拓扑调研、低时延/短路径组网架构技术研究和光电混合的层次化组网架构技术研究等工作
+* 字节跳动 基础架构/Data 应用创新中心 ByteBrain 研究员 北京 2022.11.14 ~ 2024.06.28
+  * 负责分布式计算系统（Spark）调参优化研究，包括算法设计、系统构建和应用研究等工作
+* 东兴证券 研究所 建筑装饰组 研究助理 上海 2019.06 ~ 2019.08
+  * 负责建筑装饰行业数据追踪、公司数据整理、周报汇总、财务模型构建、公司年报点评和公司深度报告撰写等工作
 
-PROJECTS
+项目经历
 ======
-* ByteDance - Shanghai Jiao Tong University Collaborative Project (基于数据库实时负载的在线学习), 2022.11 ~ 2024.06
-* Huawei - Shanghai Jiao Tong University Collaborative Project (公有云负载识别与QoS预测), 2021.12 ~ 2022.06
-* Ministry of Science and Technology, P. R. C.: National Key Research and Development Program (面向城市精准管理的新型群智感知技术及应用), 2021.04 ~ 2022.11
+* 字节跳动——上海交通大学合作项目 基于数据库实时负载的在线学习 2022.11 ~ 2024.06
+* 华为——上海交通大学合作项目 公有云负载识别与QoS预测 2021.12 ~ 2022.06
+* 科学技术部国家重点研发计划 面向城市精准管理的新型群智感知技术及应用, 2021.04 ~ 2022.11
 
 PUBLICATIONS
 ======
@@ -89,14 +83,25 @@ PUBLICATIONS
 
 学术服务
 ======
+* 审稿人: Big Data Research (BDR) 2025.06 ~ 2025.07
+* 审稿人: The 30th International Computing and Combinatorics Conference (COCOON) 2024.05
+* 审稿人: The 50th International Conference on Very Large Databases (VLDB) 2024.02
+* 审稿人: The 23rd IEEE International Conference on Data Mining (ICDM) 2023.08 ~ 2023.09
+* 审稿人: The 29th IEEE International Conference on High Performance Computing, Data, & Analytics (HiPC) 2022.08
+* 审稿人: Information Sciences (INS) 2022.07
+* 审稿人: IEEE Transactions on Network and Service Management (TNSM) 2022.05
+* 审稿人: Theoretical Computer Science (TCS) 2021.10
+* 审稿人: IEEE Access 2021.06
+* 审稿人: Telecommunication Systems (TELS) 2021.04
 
 技能水平
 ======
 * 语言能力: 中文（普通话） 英文
-* 编程语言: Python, C++, MATLAB
+* 编程语言: Python, C++, MATLAB, Linux
+* 大数据类：Spark, Hadoop, Hive, SQL
 * 工业软件: CAD, UG, STAR-CCM+
 * 统计分析: Origin, SPSS
 * 金融分析: Wind
 * 办公软件: Word, Excel, Powerpoint, LaTex
-* 绘图工具: Drawio
+* 绘图工具: Drawio, Visio
 
