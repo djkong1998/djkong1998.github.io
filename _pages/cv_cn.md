@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
+教育经历
 ======
-* Doctor of Philosophy in Computer Science, School of Computer Science and Engineering, The University of New South Wales (UNSW Sydney), 2023.09 ~ 2026.03 (Expected)
-* Doctor of Philosophy in Computer Science and Technology, Department of Computer Science and Engineering, Shanghai Jiao Tong University, 2021.04 ~ 2026.03 (Expected)
-* Master of Science in Mechanical Engineering with Distinction, Department of Mechanical Engineering, The University of Hong Kong, 2019.09 ~ 2020.12
-* Bachelor of Economics in International Economy and Trade (Minor), ANTAI College of Economics and Management, Shanghai Jiao Tong University, 2017.02 ~ 2019.06
-* Bachelor of Engineering in Naval Architecture and Ocean Engineering, School of Naval Architecture, Ocean and Civil Engineering, Shanghai Jiao Tong University, 2015.09 ~ 2019.06
-* The Gifted Division, North East Yucai School, 2010.09 ~ 2015.06
-* The Primary School Division, North East Yucai School, 2005.09 ~ 2010.07
+* 上海交通大学 计算机学院 计算机科学与技术 博士 2021.04.06 ~ 2026.09.30
+* 新南威尔士大学 计算机科学与工程学院 计算机科学 博士 2023.09.11 ~ 2026.09.30
+* 香港大学 工程学院 机械工程 硕士 2019.09.02 ~ 2020.12.03
+* 上海交通大学 船舶海洋与建筑工程学院 船舶与海洋工程 学士 2015.09.14 ~ 2019.06.30
+* 上海交通大学 安泰经济与管理学院 国际经济与贸易 学士（第二学科） 2017.02.20 ~ 2019.06.30
+* 东北育才学校 超常教育实验部 高中/初中 2010.09 ~ 2015.06
+* 东北育才学校 小学部 2005.09 ~ 2010.07
 
 PROFESSION
 ======
@@ -34,21 +34,6 @@ PROFESSION
   * Supervisor: Pianpian Wang
   * Base: Shanghai
 
-SCHOLARSHIP
-======
-* Shanghai Jiao Tong University - Suzhou Industrial Park Scholarship (Overseas Study), 2024.11
-* China Scholarship Council Visiting PhD Scholarship, 2023.05
-* China Classification Society Scholarship, 2018.12
-* Shanghai Jiao Tong University Academic Excellence Scholarship (First Class), 2017.12
-
-COMPETITIONS
-======
-* 3rd Prize, The 6th World Maritime Technology Conference Student Innovative Marine Design Competition, 2018.11
-* Outstanding Winner, National Marine Craft Design and Manufacture Competition, 2018.08
-* Honorable Mention, Interdisciplinary Contest in Modeling (ICM), 2018.04
-* 2nd Prize, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)(Shanghai Division), 2017.12
-* 3rd Prize, Shanghai Undergraduate Mathematics Competition, 2016.12
-
 PROJECTS
 ======
 * ByteDance - Shanghai Jiao Tong University Collaborative Project (基于数据库实时负载的在线学习), 2022.11 ~ 2024.06
@@ -60,25 +45,58 @@ PUBLICATIONS
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-SERVICE
-======
-* The 23rd IEEE International Conference on Data Mining (ICDM), 2023.08 ~ 2023.09
-  * Occupation: Reviewer (3 Reviews)
-* SJTU Intelligent Carrier Club, 2016.09 ~ 2018.09
-  * Occupation: President
-* SJTU Mathematics Association, 2015.10 ~ 2016.10
-  * Department: Academy
-  * Occupation: Minister
-* SJTU NAOCE Student Union, 2015.10 ~ 2016.10
-  * Department: Literal & Art
-  * Occupation: Officer
 
-SKILLS
+学术荣誉
 ======
-* Language: English, Chinese (Mandarin)
-* Programming: Python, C++, MATLAB, Visual Studio
-* Manufacturing: Auto CAD, UG
-* Statistics: Origin, SPSS
-* Office: Word, Excel, Powerpoint, LaTex
+* 第六届国际亚太互联网——网络时代信息管理和大数据联合会议最佳论文奖 国际级 APWeb-WAIM2022程序委员会 2022.11.25 ~ 2022.11.27
+  * The Sixth APWeb-WAIM Joint Conference on Web and Big Data, APWeb-WAIM 2022, CCF-C
+* 第六届世界海事技术学术会议航行器设计学生创新竞赛三等奖 国际级 WMTC2018组织委员会 2018.12.07
+  * The 6th World Maritime Technology Conference, WMTC 2018
+
+奖学金
+======
+* 2024年度上海交通大学-苏州工业园区奖学金（海外研修专项） 校级 上海交通大学 2025.01
+* 国家留学基金公派留学奖学金（联合培养博士） 国家级 国家留学基金管理委员会 2023.05.23
+* 中国船级社奖学金（TOP 25%） 校级 上海交通大学 2018.12?
+* 上海交通大学2016-2017学年A等优秀奖学金（TOP 20%） 校级 上海交通大学 2017.12
+
+竞赛获奖
+======
+* 第七届全国海洋航行器设计与制作大赛特等奖 国家级 全国海洋航行器设计与制作大赛组委会（中国造船工程学会） 2018.08
+* 美国大学生交叉学科建模竞赛（美国大学生数学建模竞赛）H奖 国际级 美国大学生数学建模竞赛（MCM/ICM）组委会（COMAP） 2018(04)
+* 全国大学生数学建模竞赛2017年上海赛区本科组二等奖 省级 上海市教育委员会 2017.12
+* 第八届上海市大学生数学竞赛非数学类三等奖 省级 上海市数学会 2016.12
+* 第三十一届全国中学生物理竞赛二等奖（辽宁省） 国家级 中国物理学会/全国中学生物理竞赛委员会 2014.10.20
+* 2014年全国高中数学联赛一等奖（辽宁省） 国家级 中国数学会 2014.09
+* 第九届北方数学奥林匹克邀请赛二等奖 省级 北方数学奥林匹克邀请赛组委会 2013.07.27 ~ 2013.08.03
+
+其他奖励
+======
+* 上海交通大学2023年秋季学期卓越助教奖 校级 上海交通大学教学发展中心 2024.03
+* 2016年度上海交通大学暑期社会实践先进个人 校级 共青团上海交通大学委员会 2016.10
+
+资格证书
+======
+* 普通话水平测试等级证书 二级甲等 国家级 国家语言文字工作委员会 2017.03.25
+* 全国大学英语六级考试（CET-6） 601 国家级 教育部考试中心 2016.12
+* 全国大学英语四级考试（CET-4） 590 国家级 教育部考试中心 2016.06
+  
+社团工作
+======
+* 上海交通大学智能运载器俱乐部 社长 2016.09 ~ 2018.09
+* 上海交通大学数学协会 学术部 部长 2015.10.20 ~ 2016.10.20
+* 上海交通大学船舶海洋与建筑工程学院团委学生会 文艺部 干事 2015.10 ~ 2016.05
+
+学术服务
+======
+
+技能水平
+======
+* 语言能力: 中文（普通话） 英文
+* 编程语言: Python, C++, MATLAB
+* 工业软件: CAD, UG, STAR-CCM+
+* 统计分析: Origin, SPSS
+* 金融分析: Wind
+* 办公软件: Word, Excel, Powerpoint, LaTex
+* 绘图工具: Drawio
 
