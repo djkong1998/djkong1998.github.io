@@ -83,6 +83,9 @@ PUBLICATIONS
 
 学术服务
 ======
+* 审稿人: The 26th IEEE International Conference on Data Mining (ICDM) 2026.07
+* 审稿人: The 33rd IEEE International Conference on Web Services (ICWS) 2026.04
+* 审稿人: The 42nd IEEE International Conference on Data Engineering (ICDE) 2025.11
 * 审稿人: Big Data Research (BDR) 2025.06 ~ 2025.07
 * 审稿人: The 30th International Computing and Combinatorics Conference (COCOON) 2024.05
 * 审稿人: The 50th International Conference on Very Large Databases (VLDB) 2024.02
@@ -96,12 +99,12 @@ PUBLICATIONS
 
 技能水平
 ======
-* 语言能力: 中文（普通话） 英文
-* 编程语言: Python, C++, MATLAB, Linux
-* 大数据类：Spark, Hadoop, Hive, SQL
-* 工业软件: CAD, UG, STAR-CCM+
-* 统计分析: Origin, SPSS
+* 语言能力: 中文（普通话）、英文
+* 编程语言: Python、C++、MATLAB、Linux
+* 大数据类：Spark、Hadoop、Hive、SQL
+* 工业软件: CAD、UG、STAR-CCM+
+* 统计分析: Origin、SPSS
 * 金融分析: Wind
-* 办公软件: Word, Excel, Powerpoint, LaTex
-* 绘图工具: Drawio, Visio
+* 办公软件: Word、Excel、Powerpoint、LaTex
+* 绘图工具: Drawio、Visio
 
