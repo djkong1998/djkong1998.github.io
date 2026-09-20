@@ -83,28 +83,28 @@ PUBLICATIONS
 
 学术服务
 ======
-* 审稿人: The 26th IEEE International Conference on Data Mining (ICDM) 2026.07
-* 审稿人: The 33rd IEEE International Conference on Web Services (ICWS) 2026.04
-* 审稿人: The 42nd IEEE International Conference on Data Engineering (ICDE) 2025.11
-* 审稿人: Big Data Research (BDR) 2025.06 ~ 2025.07
-* 审稿人: The 30th International Computing and Combinatorics Conference (COCOON) 2024.05
-* 审稿人: The 50th International Conference on Very Large Databases (VLDB) 2024.02
-* 审稿人: The 23rd IEEE International Conference on Data Mining (ICDM) 2023.08 ~ 2023.09
-* 审稿人: The 29th IEEE International Conference on High Performance Computing, Data, & Analytics (HiPC) 2022.08
-* 审稿人: Information Sciences (INS) 2022.07
-* 审稿人: IEEE Transactions on Network and Service Management (TNSM) 2022.05
-* 审稿人: Theoretical Computer Science (TCS) 2021.10
-* 审稿人: IEEE Access 2021.06
-* 审稿人: Telecommunication Systems (TELS) 2021.04
+* 审稿人：The 26th IEEE International Conference on Data Mining (ICDM) 2026.07
+* 审稿人：The 33rd IEEE International Conference on Web Services (ICWS) 2026.04
+* 审稿人：The 42nd IEEE International Conference on Data Engineering (ICDE) 2025.11
+* 审稿人：Big Data Research (BDR) 2025.06 ~ 2025.07
+* 审稿人：The 30th International Computing and Combinatorics Conference (COCOON) 2024.05
+* 审稿人：The 50th International Conference on Very Large Databases (VLDB) 2024.02
+* 审稿人：The 23rd IEEE International Conference on Data Mining (ICDM) 2023.08 ~ 2023.09
+* 审稿人：The 29th IEEE International Conference on High Performance Computing, Data, & Analytics (HiPC) 2022.08
+* 审稿人：Information Sciences (INS) 2022.07
+* 审稿人：IEEE Transactions on Network and Service Management (TNSM) 2022.05
+* 审稿人：Theoretical Computer Science (TCS) 2021.10
+* 审稿人：IEEE Access 2021.06
+* 审稿人：Telecommunication Systems (TELS) 2021.04
 
 技能水平
 ======
-* 语言能力: 中文（普通话）、英文
-* 编程语言: Python、C++、MATLAB、Linux
+* 语言能力：中文（普通话）、英文
+* 编程语言：Python、C++、MATLAB、Linux
 * 大数据类：Spark、Hadoop、Hive、SQL
-* 工业软件: CAD、UG、STAR-CCM+
-* 统计分析: Origin、SPSS
-* 金融分析: Wind
-* 办公软件: Word、Excel、Powerpoint、LaTex
-* 绘图工具: Drawio、Visio
+* 工业软件：CAD、UG、STAR-CCM+
+* 统计分析：Origin、SPSS
+* 金融分析：Wind
+* 办公软件：Word、Excel、Powerpoint、LaTex
+* 绘图工具：Drawio、Visio
 
